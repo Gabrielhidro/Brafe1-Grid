@@ -1,0 +1,25 @@
+@media (max-width: 739px){
+  .menu-nav {
+    width: 300px;
+    float: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .menu-logo img{
+    margin: 0px auto;
+  }
+
+  .menu-nav ul li a {
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 8px;
+    padding-top: 15px;
+  }
+
+  .intro {
+    padding: 70px 0;
+  }
+
+  
+}
